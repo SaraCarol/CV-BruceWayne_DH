@@ -44,6 +44,10 @@ span{
     padding-left: 20px;
 }
 
+li{
+    padding-top: 0.3%;
+}
+
 .dato{
     font-style: italic;
 }
@@ -51,4 +55,21 @@ span{
 .texto-identado{
     padding-left: 95px;
     margin-top: -10px;
+}
+
+footer{
+    background-color: #005677;
+    padding: 0.5%;
+}
+
+.texto-footer{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    color: white;
+    padding-left: 40%;
+}
+
+.logo-redes{
+    padding-left: 2%;
 }
