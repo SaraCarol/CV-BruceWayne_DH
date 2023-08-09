@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Tektur&display=swap');
 
 body {
         height: 100vh;
@@ -14,7 +15,7 @@ div{
 }
 
 h1, .titulo-seccion{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Bebas Neue', sans-serif;
     text-transform: uppercase;
     background-color: #C4C4C4;
     color: #005677;
@@ -62,6 +63,7 @@ footer{
 }
 
 .texto-footer{
+    font-family: 'Tektur', cursive;
     font-size: 20px;
     font-weight: 700;
     line-height: 17px;
